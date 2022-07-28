@@ -1,14 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+For run the project:
 
 ### Download The File
 ### Run npm install
 ### Then Run npm start
+
+# Used library
+### Tailwindcss, DaisyUI, React Router
 
 
 
