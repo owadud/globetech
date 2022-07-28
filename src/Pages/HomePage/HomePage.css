@@ -1,0 +1,48 @@
+.homepage-title h1 {
+    color: #28ACE2;
+    line-height: 2;
+}
+
+.homepage-title h2 {
+    color: rgba(227, 248, 145, 1);
+}
+
+.homepage-title p {
+    color: #2EBBE5;
+    width: 40%;
+
+}
+
+.hero-content {
+    justify-content: space-between;
+}
+
+.best-it {
+    color: #9EB540;
+}
+
+.btn-color {
+    background: linear-gradient(265.22deg, #DEF77D 0%, #D0F344 100%);
+    box-shadow: inset -18px -60px 16px #B6CC63, inset 30px 30px 16px rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+    color: #00052F;
+}
+
+.btn-mission {
+    color: #8FE5FF;
+    border: 2px solid #8FE5FF;
+    border-radius: 4px;
+    margin-left: 39px;
+
+}
+.plane:hover .home-plane{
+    
+    transform: translate(50%);
+}
+
+.home-plane{
+    transition: transform 0.1s ease-in-out;   
+}
+.plane{
+    overflow: hidden;
+}

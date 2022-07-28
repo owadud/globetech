@@ -1,0 +1,13 @@
+.service-plane:hover .plane-move {
+    transform: translate(90%);
+}
+ .plane-move{
+    transition: transform  0.5s ease-in-out;
+    
+}
+.service-plane{
+    overflow: hidden;
+}
+
+
+

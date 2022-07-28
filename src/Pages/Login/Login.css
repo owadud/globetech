@@ -1,0 +1,30 @@
+.login-background{
+    background-color:#000633;
+    color:#0096C7;
+    line-height:5;
+}
+.login-page-background{
+    background-color:  #C0CDD3;  
+}
+.login-background p{
+    color: #FFFFFF;
+
+}
+.welcome h1{
+    color: #212121;
+    line-height:3;
+}
+.welcome p{
+    color: #928B8B;
+    ;
+}
+.login{
+    background-color: #0096C7;
+
+}
+.home-arrow{
+    margin-top: 80%;
+}
+.eye{
+    bottom: 122px;
+}
